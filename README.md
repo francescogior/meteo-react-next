@@ -2,7 +2,7 @@
 
 *a simple meteo app powered by [Yahoo! API](https://developer.yahoo.com/weather/), demonstration usage of [ReactJS](https://github.com/facebook/react) and [Next](https://github.com/zeit/next)*
 
-[Here is a live DEMO](https://meteo-ertawcwkso.now.sh/)
+[Here is a live DEMO](https://meteo-ebboepmvdh.now.sh)
 
 Requirements: `node@8` and `yarn@1` (`node@7` and any `yarn` should be fine).
 
