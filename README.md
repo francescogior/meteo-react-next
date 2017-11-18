@@ -6,7 +6,7 @@
 
 Requirements: `node@8` and `yarn@1` (`node@7` and any `yarn` should be fine).
 
-To run it: `yarn && yarn build && yarn start` (`npm i && npm build && npm start` should be fine) and open any modern browser on [localhost:3000](http://localhost:3000).
+To run it: `yarn && yarn build && yarn start` (`npm i && npm build && npm start` should be fine) and open any modern browser (like Chrome, Firefox... it should support `fetch` API) on [localhost:3000](http://localhost:3000).
 
 ![](https://i.gyazo.com/8001798fe24d185043cf5f0885f4fdac.gif)
 
