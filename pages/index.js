@@ -16,12 +16,17 @@ const MeteoAppUI = ({ inputValue, result, onInputChange }) => (
 
     <Head>
       <link rel='stylesheet' href='/static/icons/wi-icons.min.css' />
+      <meta name='viewport' content='width=device-width, initial-scale=1' />
+      <title>METEO</title>
     </Head>
 
     <style jsx global>{`
 
-      body {
+      html, body {
         overflow: hidden;
+      }
+
+      body {
         margin: 0;
         padding: 0;
         font-family: sans-serif;
