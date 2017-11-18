@@ -1,0 +1,1 @@
+export const FtoC = (f) => Math.round((f - 32) * 5 / 9)
